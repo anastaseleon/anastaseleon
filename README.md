@@ -34,11 +34,3 @@ My unique blend of academic training and professional experience in logistics an
 - Using clustering algorithm and traditional statistics to study driving Behavior
 </p>
 
-<h2 align="center">Contact Me</h2>
-<p align="center">
-I am always open to collaborate on projects or discuss opportunities. Feel free to <a href="mailto:youremail@example.com">contact me</a>.
-</p>
-
-<p align="center">
-<i>References available upon request.</i>
-</p>

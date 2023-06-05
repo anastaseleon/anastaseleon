@@ -29,8 +29,12 @@ My unique blend of academic training and professional experience in logistics an
 
 <h2 align="center">Projects</h2>
 <p align="justify">
-  
+ 
 - Fleet management visualisation in Power Bi
 - Using clustering algorithm and traditional statistics to study driving Behavior
+ - Power app for updating BOL
+ - Power automate Flows to autamate office tasks 
+ 
+ [Please note that , due to confidentiality agreements, some projects cannot be detailed publicly at present. I am currently in the process of anonymizing the data to make these projects available for public viewing in a few weeks. In the interim, I am able to provide more specific information and examples privately, upon request, for potential employers.]
 </p>
 

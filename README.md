@@ -1,4 +1,4 @@
-<h1 align="center">Didier - Data Analyst Portfolio</h1>
+<h1 align="center">Didier - Data Analyst</h1>
 
 ## Overview
 <p align="justify">

@@ -7,7 +7,7 @@ Hello! I am a recent graduate in Business Management and Analytics, excited to p
 I hold multiple certifications including a Business Analytics Certificate from HEC, a Google Project Management Certificate from Coursera, and a Six Sigma Green Belt and Lean Management Certificate from the American Society.
 
 My unique blend of academic training and professional experience in logistics and project management sets the foundation for my analytical skills. With a strong background and a personality driven towards hard work, I aim to leverage data to create impactful insights and solutions.
- The datasets explored in this portfolio  leverage business intellignece and machine learning tools to anwser challenges in the transportation industry.
+ The datasets explored in this portfolio  leverage business intelligence and machine learning tools to answer challenges in the transportation industry.
 </p>
 
 ...

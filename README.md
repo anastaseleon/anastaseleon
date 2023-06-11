@@ -10,31 +10,24 @@ My unique blend of academic training and professional experience in logistics an
  The datasets explored in this portfolio  leverage business intelligence and machine learning tools to answer challenges in the transportation industry.
 </p>
 
-...
-
 <h2 align="center">Skills</h2>
 
 
-- Data Cleaning and collection 
+- Data Collection and Cleaning 
 - Modeling
 - Visualization
 - Analytics and Statistics
 - Agile Project Management
 
 
-
-
-
-...
-
 <h2 align="center">Projects</h2>
 <p align="justify">
  
-- Fleet management visualisation in Power Bi
-- Using clustering algorithm and traditional statistics to study driving Behavior
- - Power app for updating BOL
- - Power automate Flows to autamate office tasks 
+- Fleet management in Power Bi
+- Using clustering algorithms and traditional statistics to study driving behaviour
+- Power app for updating bill of lading
+- Power automate flows to automate office tasks 
  
- [Please note that , due to confidentiality agreements, some projects cannot be detailed publicly at present. I am currently in the process of anonymizing the data to make these projects available for public viewing in a few weeks. In the interim, I am able to provide more specific information and examples privately, upon request, for potential employers.]
+ [Please note that due to confidentiality agreements, some projects cannot be detailed publicly at present. I am currently in the process of anonymizing the data to make these projects available for public viewing in a few weeks. In the interim, I am able to provide more specific information and examples privately, upon request, for potential employers.]
 </p>
 

@@ -23,7 +23,7 @@ My unique blend of academic training and professional experience in logistics an
 <h2 align="center">Projects</h2>
 <p align="justify">
  
-- Fleet management in Power Bi
+- Fleet management in Power BI
 - Using clustering algorithms and traditional statistics to study driving behaviour
 - Power app for updating bill of lading
 - Power automate flows to automate office tasks 

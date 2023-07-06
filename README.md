@@ -23,11 +23,10 @@ My unique blend of academic training and professional experience in logistics an
 <h2 align="center">Projects</h2>
 <p align="justify">
  
-- Fleet management in Power BI
-- Using clustering algorithms and traditional statistics to study driving behaviour
-- Power app for updating bill of lading
-- Power automate flows to automate office tasks 
+- <font color="red">Fleet management in Power BI</font>
+- <a href="https://github.com/anastaseleon/Implementation-of-clustering-in-transportation-" style="color:green;">Using clustering algorithms and traditional statistics to study driving behaviour</a>
+- <font color="red">Power app for updating bill of lading</font>
+- <font color="red">Power automate flows to automate office tasks</font> 
  
- [Please note that due to confidentiality agreements, some projects cannot be detailed publicly at present. I am currently in the process of anonymizing the data to make these projects available for public viewing in a few weeks. In the interim, I am able to provide more specific information and examples privately, upon request, for potential employers.]
-</p>
 
+</p>

@@ -1,4 +1,4 @@
-<h1 align="center">Didier - Portfolio of Transportation projetcs</h1>
+<h1 align="center">Didier - Portfolio of Transportation projects</h1>
 
 ## Overview
 <p align="justify">

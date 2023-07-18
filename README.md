@@ -23,7 +23,7 @@ My unique blend of academic training and professional experience in logistics an
 <h2 align="center">Projects</h2>
 <p align="justify">
  
-- <font color="red">Fleet management in Power BI</font>
+- <font color="red">Supply chain Business intelligence using python , SQL and Power Bi </font>
 - <a href="https://github.com/anastaseleon/Implementation-of-clustering-in-transportation-" style="color:green;">Using clustering algorithms and traditional statistics to study driving behaviour</a>
 - <font color="red">Power app for updating bill of lading</font>
 - <font color="red">Power automate flows to automate office tasks</font> 

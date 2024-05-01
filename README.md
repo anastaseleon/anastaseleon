@@ -13,11 +13,14 @@ My unique blend of academic training and professional experience in logistics an
 <h2 align="center">Skills</h2>
 
 
-- Data Collection and Cleaning 
+## ETL
+-  Data extraction and cleaning using Python, SQL, Power Querry, Sas enterprise guide
 - Modeling
-- Visualization
-- Analytics and Statistics
-- Agile Project Management
+- Visualization using Power BI and Tableau
+## Analytics and Statistics
+- Machine learning using Pytorch, Keras, TensorFlow and Scikit learn
+- SPSS
+
 
 
 <h2 align="center">Projects</h2>
@@ -25,6 +28,8 @@ My unique blend of academic training and professional experience in logistics an
  
 - <a href="https://github.com/anastaseleon/simple-BI-solution-for-distribution-companies/tree/main">Supply chain Business intelligence using python , SQL and Power Bi</a>
 - <a href="https://github.com/anastaseleon/Implementation-of-clustering-in-transportation-" style="color:green;">Using clustering algorithms and traditional statistics to study driving behaviour</a>
+- <a href="https://github.com/anastaseleon/ABC_Analysis_adventureWorks" style="color:green;">ABC Analysis using SQL and Power BI</a>
+
 
 
 </p>

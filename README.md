@@ -29,6 +29,9 @@ My unique blend of academic training and professional experience in logistics an
 - <a href="https://github.com/anastaseleon/simple-BI-solution-for-distribution-companies/tree/main">Supply chain Business intelligence using python , SQL and Power Bi</a>
 - <a href="https://github.com/anastaseleon/Implementation-of-clustering-in-transportation-" style="color:green;">Using clustering algorithms and traditional statistics to study driving behaviour</a>
 - <a href="https://github.com/anastaseleon/ABC_Analysis_adventureWorks" style="color:green;">ABC Analysis using SQL and Power BI</a>
+- <a href="https://github.com/anastaseleon/TimeSerieForecasting_AdventureWorks-SARIMA/tree/main" style="color:green;">Time series forcasting</a>
+
+
 
 
 

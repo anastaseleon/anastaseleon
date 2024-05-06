@@ -1,4 +1,4 @@
-<h1 align="center">Didier - Analytics projects</h1>
+<h1 align="center">Didier </h1>
 
 ## Overview
 <p align="justify">

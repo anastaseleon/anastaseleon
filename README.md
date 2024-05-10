@@ -10,16 +10,10 @@ My unique blend of academic training and professional experience in logistics an
  The datasets explored in this portfolio  leverage business intelligence and machine learning tools to answer challenges in the transportation industry.
 </p>
 
-<h2 align="center">Skills</h2>
 
 
-## ETL
--  Data extraction and cleaning using Python, SQL, Power Querry, Sas enterprise guide
-- Modeling
-- Visualization using Power BI and Tableau
-## Analytics and Statistics
-- Machine learning using Pytorch, Keras, TensorFlow and Scikit learn
-- SPSS
+
+
 
 
 
